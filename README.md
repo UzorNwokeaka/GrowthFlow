@@ -21,5 +21,7 @@ This project focuses on optimizing customer retention for a SaaS company using d
 - dashboard/
 - reports/
 
-## Status
-🚧 In Progress
+## Project Status
+1. Project setup completed  
+2. PostgreSQL database restored and connected  
+🚧 Exploratory Data Analysis (EDA) in progress  
