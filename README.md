@@ -1,6 +1,6 @@
 # GrowthFlow Customer Retention Project
 
-This project focuses on optimizing customer retention for a SaaS company using data-driven strategies
+This project focuses on optimizing customer retention for a SaaS company using data-driven strategies,
 
 ## Objectives
 - Cohort analysis
