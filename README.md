@@ -1,4 +1,4 @@
-# GrowthFlow Customer Retention Project.
+# GrowthFlow Customer Retention Project
 
 This project focuses on optimizing customer retention for a SaaS company using data-driven strategies.
 
